@@ -1,6 +1,7 @@
 # workforce-burnout-analytics
 
 📊 Workforce Burnout Analytics using Python & SQL
+
 📌 Project Overview
 
 This project focuses on analyzing workforce burnout and productivity patterns using Python and SQL.
@@ -70,6 +71,7 @@ How does overtime impact employee performance?
 Which employees require immediate workload attention?
 
 🔄 Methodology
+
 1️⃣ Data Preparation (Python)
 
 Removed duplicates and validated data types
